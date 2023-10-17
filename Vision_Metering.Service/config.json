@@ -1,0 +1,6 @@
+{
+  "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=VisionDb;Trusted_Connection=True;",
+  "CounterName": "Counter",
+  "CounterValue": 400,
+  "IsChecked": true
+}
